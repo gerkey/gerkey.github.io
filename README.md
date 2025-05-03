@@ -1,7 +1,5 @@
 ![Sunset over the ocean](media/westcliff.jpg)
 
-# Brian Gerkey
-
 I'm CTO at [Intrinsic](https://intrinsic.ai/). We're democratizing access to robotics.
 
 I'm co-founder, former CEO and current board chair of [Open Robotics](http://www.openrobotics.org), where we build open source software and hardware for the global robotics community.
