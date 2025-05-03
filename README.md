@@ -10,7 +10,7 @@ I'm passionate about interoperable, open, reusable robot software.
 
 Before that, I worked at [Willow Garage](http://www.willowgarage.com), the [SRI Artificial Intelligence Center](http://ai.sri.com), the [Stanford Artificial Intelligence Lab](http://ai.stanford.edu), and the [USC Interaction Lab](http://robotics.usc.edu/interaction/).
 
-I'm not looking for a job, but here's my CV: \[[PDF](https://brian.gerkey.org/wp-content/uploads/2024/08/cv-1.pdf)\]
+I'm not looking for a job, but here's my CV: \[[PDF](media/cv.pdf)\]
 
 I frequently speak at conferences and with media outlets about topics including robotics, autonomy, and open source. Select public speaking and media appearances:
 
@@ -35,7 +35,7 @@ If you are organizing a meeting or producing a story where I might be able to co
 
 *Brian Gerkey is CTO at Intrinsic, where he's helping to democratize access to robotics. Brian was previously co-founder and CEO at Open Robotics, and is a board member of the Open Source Robotics Foundation. He has also worked at Willow Garage, SRI, Stanford, and USC. Brian is a strong believer in, frequent contributor to, and constant beneficiary of open source technology.*
 
-Headshot: \[[large](https://brian.gerkey.org/wp-content/uploads/2020/07/briangerkey.jpg)\] \[[small](https://brian.gerkey.org/wp-content/uploads/2020/07/brian-small.png)\]
+Headshot: \[[large](media/briangerkey.jpg)\] \[[small](media/brian-small.png)\]
 
 ## Contact
 
