@@ -1,3 +1,5 @@
+![Sunset over the ocean](media/westcliff.jpg)
+
 # Brian Gerkey
 
 I'm CTO at [Intrinsic](https://intrinsic.ai/). We're democratizing access to robotics.
